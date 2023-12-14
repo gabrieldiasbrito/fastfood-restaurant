@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Rethink+Sans:wght@400;800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-family: 'Rethink Sans', sans-serif;
+}
+
+.all{
+    padding-top: 80px;
+    margin: 0 auto;
+    max-width: 1600px;
+}

@@ -1,0 +1,31 @@
+.about-container{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.about-container p{
+    width: 30%;
+    text-align: justify;
+}
+
+.about-container img{
+    height: 300px;
+}
+
+@media (max-width:700px){
+    .about-container{
+        display: block;
+        margin: 0 auto;
+        width: 90%;
+    }
+
+    .about-container p{
+        width: 100%;
+    }
+
+    .about-container img{
+        height: 250px;
+    }
+}
