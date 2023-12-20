@@ -1,6 +1,3 @@
-# React + TypeScript + Vite
+# Ui restaurante fast-food (React + TypeScript + Vite)
 
-## Projeto criado utilizando o Github e Github Desktop
-
-Rede de franquias de alimentação Fast food
-
+Ui para uma rede de franquias de alimentação Fast food
